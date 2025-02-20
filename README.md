@@ -15,7 +15,7 @@ void setup()
 {
   Serial.begin(9600);
   PCF8563.begin();
-  PCF8563.adjust(DateTime(2025, 2, 13, 16, 26, 0)); //set to your current time
+  PCF8563.adjust(DateTime(2025, 2, 13, 16, 26, 0)); //set to your current time use only when you need to set the clock t the right time
   delay(2000);
 }
 
