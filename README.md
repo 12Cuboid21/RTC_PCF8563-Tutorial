@@ -39,6 +39,7 @@ void loop()
 }
 ```
 This code should print the current date and time onto the serial monitor.
+
 Don't forget to install the dependent libraries.
 
 If you do everything correctly this code should work.
