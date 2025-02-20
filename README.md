@@ -38,5 +38,6 @@ void loop()
   Serial.println("");
 }
 ```
+Don't forget to install the dependent libraries.
 
 If you do everything correctly this code should work.
